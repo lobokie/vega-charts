@@ -1,0 +1,3 @@
+[submodule "ipyvega"]
+	path = ipyvega
+	url = https://github.com/vega/ipyvega.git
